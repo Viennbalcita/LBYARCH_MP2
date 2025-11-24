@@ -1,3 +1,4 @@
+// ; ARMAS, AARON MARK CRISTOBAL & BALCITA, VIENN ROWEN GATCHALIAN S18B
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

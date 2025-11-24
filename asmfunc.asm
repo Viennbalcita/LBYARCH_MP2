@@ -1,3 +1,4 @@
+; ARMAS, AARON MARK CRISTOBAL & BALCITA, VIENN ROWEN GATCHALIAN S18B
 ; imgCvtGrayInttoFloat - Converts int grayscale pixels to float (0.0 to 1.0)
 ; Formula: float_value = int_value / 255.0
 ; Windows x64: RCX = int* input, RDX = float* output, R8D = pixel count
